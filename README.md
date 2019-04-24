@@ -1,2 +1,2 @@
-# cajero_autom-tico
+# cajero_automático
 Código de cajero automático
